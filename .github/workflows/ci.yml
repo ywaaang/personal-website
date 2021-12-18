@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: centos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: 迁出代码
         uses: actions/checkout@master
@@ -33,7 +33,7 @@ jobs:
           #源目录
           SOURCE: "dist/"
           #服务器Ip:换成你的服务器iP
-          REMOTE_HOST: "47.114.3.158"
+          REMOTE_HOST: "47.104.13.95"
           #用户
           REMOTE_USER: "root"
           #目标地址
