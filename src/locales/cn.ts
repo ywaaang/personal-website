@@ -20,7 +20,7 @@ const cn = {
         currentL: '目前在研究:',
         willing: '工作领域:',
         work1: 'PC和移动端，Dapp开发',
-        quote: "Atwood's Law: Any application that can be written in JavaScript,will eventually be written in JavaScript.",
+        quote: "阿特伍德定律: 任何可以用JavaScript来写的应用，最终都将用JavaScript来写",
 
     },
     about: {

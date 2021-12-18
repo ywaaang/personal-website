@@ -26,7 +26,7 @@ const en = {
     about: {
         title: 'WHO I AM',
         hi: 'Hi I am',
-        textGraduate: 'Graduated from McGillUniversity with a Bachelor of Engineering. Over four years of experience in',
+        textGraduate: 'Graduated from McGill University with a Bachelor of Engineering. Over four years of experience in',
         frontD: 'Frontend Development',
         workedIn: ' Worked in Supply Chain, Consulting, and Finance industries and have done projects with',
         vueR: 'Vue.js, React.js, Chrome Extension, Node.js, MySQL, Wechat Miniapp ',
