@@ -27,7 +27,7 @@ const content3Cn = `开发了多个H5营销小游戏, 例如抽奖, 红包雨等
 				<span class="font-semibold text-blue-500">CSS Animation</span>,
 				<span class="font-semibold text-blue-500">帧动画</span>和<span class="font-semibold text-blue-500">lottie-web</span>`;
 const content4Cn = `一个<span class="font-semibold 
-                text-blue-500">微信助手小程序</span的全栈项目 >, 基于<span class="font-semibold text-blue-500">
+                text-blue-500">微信助手小程序</span>的全栈项目 , 基于<span class="font-semibold text-blue-500">
                 Koa/Nodejs</span>和<span class="font-semibold text-blue-500">GraphQL</span>. 
                 包含接口查询, 接口转发, 文件上传, 以及天气、股票和历史上的今天查询功能. `;
 </script>
