@@ -53,18 +53,11 @@ const { t } = useI18n()
 		>
 	</div>
 	<div class="text-gray-800 tracking-normal text-left block sm:flex">
-		<div class="mr-12">
-			<img class="h-6 w-6 sm:w-full inline-block mr-4" src="/email.svg" /><span
+		<div class="mr-0 sm:mr-12">
+			<img class="h-6 w-6 inline-block mr-4" src="/email.svg" /><span
 				>yanbin.wyb@gmail.com</span
 			>
-		</div><!-- 
-		<div class="mr-12">
-			<img class="h-6 w-6 inline-block mr-4" src="linkedin.svg" /><a
-				href="https://www.linkedin.com/in/yanbin-wang-b7051642/"
-				target="_blank"
-				>Linkedin</a
-			>
-		</div> -->
+		</div>
 		<div class="mr-0">
 			<img class="h-6 w-6 inline-block mr-4" src="/github.svg" /><a
 				href="https://github.com/ywaaang"
