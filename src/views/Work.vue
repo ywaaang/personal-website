@@ -42,11 +42,12 @@ const content4Cn = `一个<span class="font-semibold
 			tracking-normal
 			text-left
 			mb-8
-			flex
+			block
+			sm:flex
 			justify-between
 		"
 	>
-		<WorkCard :title="t('work.project1')" :content="locale === 'cn' ? content1Cn : content1En" />
+		<WorkCard class="mb-8 sm:mb-0" :title="t('work.project1')" :content="locale === 'cn' ? content1Cn : content1En" />
 		<WorkCard :title="t('work.project2')" :content="locale === 'cn' ? content2Cn : content2En" />
 	</div>
 	<div
@@ -55,11 +56,12 @@ const content4Cn = `一个<span class="font-semibold
 			tracking-normal
 			text-left
 			mb-8
-			flex
+			block
+			sm:flex
 			justify-between
 		"
 	>
-		<WorkCard :title="t('work.project3')" :content="locale === 'cn' ? content3Cn : content3En" />
+		<WorkCard class="mb-8 sm:mb-0" :title="t('work.project3')" :content="locale === 'cn' ? content3Cn : content3En" />
 		<WorkCard :title="t('work.project4')" :content="locale === 'cn' ? content4Cn : content4En" />
 	</div>
 </template>

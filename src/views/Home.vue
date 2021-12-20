@@ -52,9 +52,9 @@ const { t } = useI18n()
 			>{{t('home.quote')}}</span
 		>
 	</div>
-	<div class="text-gray-800 tracking-normal text-left flex">
+	<div class="text-gray-800 tracking-normal text-left block sm:flex">
 		<div class="mr-12">
-			<img class="h-6 w-6 inline-block mr-4" src="/email.svg" /><span
+			<img class="h-6 w-6 sm:w-full inline-block mr-4" src="/email.svg" /><span
 				>yanbin.wyb@gmail.com</span
 			>
 		</div><!-- 
