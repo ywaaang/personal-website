@@ -15,7 +15,7 @@ const cn = {
         project4: '全栈微信小程序',
     },
     home: {
-        intro: '一名前端开发工程师',
+        intro: '一名前端/全栈开发工程师',
         proficient: '熟练掌握:',
         currentL: '目前在研究:',
         willing: '工作领域:',

@@ -15,7 +15,7 @@ const en = {
         project4: 'A Fullstack Miniapp',
     },
     home: {
-        intro: 'I am a Frontend Development Engineer',
+        intro: 'I am a Frontend/Fullstack Development Engineer',
         proficient: 'Proficient in',
         currentL: 'Currently learning',
         willing: 'Willing to work on ',
